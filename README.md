@@ -1,4 +1,11 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/banner.svg" alt="Banner" />
+</p>
+
+<p align="center">
+  🌱 Passionate about Full-Stack Development and Problem Solving  
+  💻 Solved 1150+ DSA problems on platforms like LeetCode and CodeChef
+</p>
 
 <!--
 **SwathiKaruppaiya18/SwathiKaruppaiya18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
