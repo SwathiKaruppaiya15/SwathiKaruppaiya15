@@ -1,5 +1,61 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=SWATHI%20K&fontAlign=50&fontAlignY=39&animation=scaleIn&descAlign=50">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A93A8&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Developer+by+Passion;Full+stack++Developer;DSA+Enthusiast;Learner+by+Choice" alt="typing">
-  
 </div>
+
+##  Technical Skills  
+
+<table align="center" width="100%">
+  <tr>
+    <th align="left">Programming Languages</th>
+    <td>
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <th align="left">Frontend Development</th>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    </td>
+  </tr>
+
+  <tr>
+    <th align="left">Databases</th>
+    <td>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+   <tr>
+    <th align="left">Tools</th>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+##  DSA & Problem Solving Achievements
+
+###  **1230+ Problems Solved Across Platforms**
+
+| Platform | Problems Solved | Max Rating |
+|----------|----------------|------------|
+| **LeetCode** | 391+ | 1561 |
+| **CodeChef** | 753 | 1455 |
+| **GeeksForGeeks & Others Platforms** | 85+ | - |
+
+---
+## GitHub Analytics
+[![SwathiK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SwathiKaruppaiya18&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## GitHub Trophy's
+<img src="https://github-profile-trophy.vercel.app/?username=SwathiKaruppaiya18&theme=light" alt="trophy">
