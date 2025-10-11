@@ -102,6 +102,6 @@
 ###  My Fact
 *"Big Dreams needs big Sacrifice!"*
 
-**⭐ From [sabariyuhendh](https://github.com/SwathiKaruppaiya15)**
+**⭐ From [Swathi Karuppaiya](https://github.com/SwathiKaruppaiya15)**
 
 </div>
