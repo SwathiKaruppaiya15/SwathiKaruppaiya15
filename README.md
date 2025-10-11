@@ -55,7 +55,20 @@
 
 ---
 ## GitHub Analytics
-[![SwathiK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SwathiKaruppaiya18&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![SwathiK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SwathiKaruppaiya15&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SwathiKaruppaiya15/SwathiKaruppaiya15/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SwathiKaruppaiya15/SwathiKaruppaiya15/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SwathiKaruppaiya15/SwathiKaruppaiya15/output/github-snake.svg" />
+</picture>
+
+</div>  
+
+---
+
 
 ## GitHub Trophy's
 <img src="https://github-profile-trophy.vercel.app/?username=SwathiKaruppaiya18&theme=light" alt="trophy">
