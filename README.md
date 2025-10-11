@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0d6b99d9-97f7-4dea-b4dc-6e26a4e24e8e" /><div align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=SWATHI%20K&fontAlign=50&fontAlignY=39&animation=scaleIn&descAlign=50">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A93A8&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Developer+by+Passion;Full+stack++Developer;DSA+Enthusiast;Learner+by+Choice" alt="typing">
 </div>
@@ -53,6 +53,9 @@
 | **CodeChef** | 753 | 1455 |
 | **GeeksForGeeks & Others Platforms** | 85+ | - |
 
+<br>
+<img src="Screenshot(741).png"
+
 ---
 ## GitHub Analytics
 [![SwathiK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SwathiKaruppaiya15&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -72,3 +75,33 @@
 
 ## GitHub Trophy's
 <img src="https://github-profile-trophy.vercel.app/?username=SwathiKaruppaiya18&theme=light" alt="trophy">
+
+---
+
+##  Currently Learning  
+- NodeJs and ExpressJs for Backend Development
+- MongoDB for Database
+- Backend integration with MongoDB
+- Advanced Data Structures & Algorithms
+- Problem Solving techniques and optimization
+- Full-Stack Development best practices
+
+---
+
+##  Connect with Me  
+<p align="left">
+  <a href="https://github.com/SwathiKaruppaiya15"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/swathi-karuppaiya-88b774319/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:thesde.swathi1215@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>  
+
+---
+
+<div align="center">
+
+###  My Fact
+*"Big Dreams needs big Sacrifice!"*
+
+**⭐ From [sabariyuhendh](https://github.com/SwathiKaruppaiya15)**
+
+</div>
