@@ -54,7 +54,7 @@
 | **GeeksForGeeks & Others Platforms** | 85+ | - |
 
 <br>
-<img src="Screenshot(741).png"
+<img src="Screenshot(741).png" alt="contribution" height="500" width="500">
 
 ---
 ## GitHub Analytics
