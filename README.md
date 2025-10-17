@@ -78,7 +78,7 @@
 
 ---
 
-##  Currently Learning  
+##  Learning Itinerary
 - NodeJs and ExpressJs for Backend Development
 - MongoDB for Database
 - Backend integration with MongoDB
