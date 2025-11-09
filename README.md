@@ -59,7 +59,7 @@
 
 ---
 ## GitHub Analytics
-<p align="center">
+<p>
 <a href="https://github.com/SwathiKaruppaiya15">
 <img src="https://github-readme-stats.vercel.app/api?username=SwathiKaruppaiya15&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0078D7&icon_color=0078D7&text_color=333333" alt="Divyadharshini's GitHub stats" height="181px"/></a>
 <a href="https://github.com/SwathiKaruppaiya15">
