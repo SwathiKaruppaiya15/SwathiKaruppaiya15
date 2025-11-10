@@ -52,7 +52,7 @@
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 391+ | 1561 |
+| **LeetCode** | 421+ | 1561 |
 | **CodeChef** | 753 | 1455 |
 | **GeeksForGeeks & Others Platforms** | 85+ | - |
 
