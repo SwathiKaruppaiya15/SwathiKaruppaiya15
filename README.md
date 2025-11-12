@@ -59,17 +59,13 @@
 
 ---
 ## GitHub Analytics
-<a href="https://github.com/SwathiKaruppaiya15">
-<img src="https://github-readme-stats.vercel.app/api?username=SwathiKaruppaiya15&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0078D7&icon_color=0078D7&text_color=333333" alt="Divyadharshini's GitHub stats" height="181px"/></a>
-  
-<a href="https://github.com/SwathiKaruppaiya15">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwathiKaruppaiya15&theme=default&hide_border=true&background=ffffff&ring=0078D7&fire=FF6E40&currStreakLabel=0078D7" alt="GitHub Streak" height="180px"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=SwathiKaruppaiya15&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0078D7&icon_color=0078D7&text_color=333333" alt="GitHub stats" height="181px"/> 
 
-<p align="center">
-  <a href="https://github.com/SwathiKaruppaiya15">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwathiKaruppaiya15&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=ffffff&title_color=0078D7&text_color=333333" alt="Top Languages" height="180px"/>
-  </a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwathiKaruppaiya15&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0078D7&text_color=333333" alt="Top Languages" height="181px"/>
+
+## 🔥 GitHub Streak
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SwathiKaruppaiya15" alt="GitHub Streak" /></a>
+
   
 [![SwathiK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SwathiKaruppaiya15&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
