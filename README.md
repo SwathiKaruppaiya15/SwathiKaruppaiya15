@@ -53,18 +53,20 @@
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
 | **LeetCode** | 421+ | 1561 |
-| **CodeChef** | 753 | 1455 |
+| **CodeChef** | 753  | 1455 |
 | **GeeksForGeeks & Others Platforms** | 85+ | - |
 
 
 ---
-## GitHub Analytics
-<img src="https://github-readme-stats.vercel.app/api?username=SwathiKaruppaiya15&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0078D7&icon_color=0078D7&text_color=333333" alt="GitHub stats" height="181px"/> 
+## GitHub Analytics 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwathiKaruppaiya15&show_icons=true&count_private=true)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwathiKaruppaiya15&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0078D7&text_color=333333" alt="Top Languages" height="181px"/>
 
-## 🔥 GitHub Streak
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SwathiKaruppaiya15" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=SwathiKaruppaiya15&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&count_private=true&background=0D1117&currStreakNum=FFFFFF&sideLabels=FFFFFF&ring=79ff97&fire=79ff97" alt="GitHub Streak"/>
+</a>
+
 
   
 [![SwathiK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SwathiKaruppaiya15&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
