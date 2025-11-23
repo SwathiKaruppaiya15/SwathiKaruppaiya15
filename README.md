@@ -59,44 +59,31 @@
 |----------|----------------|------------|
 | **LeetCode** | 300 | 1561 |
 | **CodeChef** | 275  | 1455 |
-| **GeeksForGeeks & Others Platforms** | 126 | - |
+| **GeeksForGeeks, HackerRank & Others Platforms** | 126 | - |
 
 
 ---
 ## GitHub Analytics 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwathiKaruppaiya15&show_icons=true&count_private=true)
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwathiKaruppaiya15&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0078D7&text_color=333333" alt="Top Languages" height="181px"/>
-
 <img src="https://streak-stats.demolab.com?user=SwathiKaruppaiya15&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&count_private=true&background=0D1117&currStreakNum=FFFFFF&sideLabels=FFFFFF&ring=79ff97&fire=79ff97" alt="GitHub Streak"/>
-
-
-
 [![SwathiK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SwathiKaruppaiya15&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SwathiKaruppaiya15/SwathiKaruppaiya15/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SwathiKaruppaiya15/SwathiKaruppaiya15/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/SwathiKaruppaiya15/SwathiKaruppaiya15/output/github-snake.svg" />
 </picture>
-
 </div>  
-
 ---
-
 ## GitHub Trophy's
-
 <p align="center">
   <img 
     src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=SwathiKaruppaiya15&theme=nord_light&no-frame=true&no-bg=true&margin-w=8&margin-h=8" 
     width="100%"
   />
 </p>
-
 ---
-
 ##  Learning Itinerary
 - NodeJs and ExpressJs for Backend Development
 - MongoDB for Database
