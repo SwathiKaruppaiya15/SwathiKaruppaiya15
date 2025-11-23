@@ -83,11 +83,11 @@
 ## GitHub Trophy's
 <p align="center">
   <img 
-    src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=SwathiKaruppaiya15&theme=nord_light&no-frame=true&no-bg=true&margin-w=8&margin-h=8" 
+    src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=SwathiKaruppaiya15&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8" 
     width="100%"
   />
 </p>
----
+
 ##  Learning Itinerary
 - NodeJs and ExpressJs for Backend Development
 - MongoDB for Database
