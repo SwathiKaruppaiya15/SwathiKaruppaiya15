@@ -67,7 +67,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwathiKaruppaiya15&show_icons=true&count_private=true)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwathiKaruppaiya15&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0078D7&text_color=333333" alt="Top Languages" height="181px"/>
-
 <img src="https://streak-stats.demolab.com?user=SwathiKaruppaiya15&theme=default" alt="GitHub Streak" />
 <img src="https://img.shields.io/badge/GitHub%20Streak-Active-green?style=flat-square" alt="GitHub Streak Badge" />
 
