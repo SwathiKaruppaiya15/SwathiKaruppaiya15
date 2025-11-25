@@ -65,10 +65,10 @@
 ---
 ## GitHub Analytics 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwathiKaruppaiya15&show_icons=true&count_private=true)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwathiKaruppaiya15&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0078D7&text_color=333333" alt="Top Languages" height="181px"/>
 
 <img src="https://streak-stats.demolab.com?user=SwathiKaruppaiya15&theme=default" alt="GitHub Streak" />
-
 <img src="https://img.shields.io/badge/GitHub%20Streak-Active-green?style=flat-square" alt="GitHub Streak Badge" />
 
 [![SwathiK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SwathiKaruppaiya15&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -83,10 +83,7 @@
 
 ## GitHub Trophy's
 <p align="center">
-  <img 
-    src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=SwathiKaruppaiya15&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8" 
-    width="100%"
-  />
+  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=SwathiKaruppaiya15&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8" width="100%" />
 </p>
 
 ##  Learning Itinerary
