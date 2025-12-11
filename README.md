@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=0:5b6dd6,100:d660c4&text=SWATHI%20K&fontColor=ffffff&fontAlign=50&fontAlignY=39&animation=scaleIn&descAlign=50">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A93A8&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Developer+by+Passion;Full+stack++Developer;DSA+Enthusiast;Learner+by+Choice" alt="typing">
   <br/>
-  <P align="justify">I’m passionate about <b>Full-Stack Development</b> and <b>Data Structures & Algorithms</b>. I have solved 1244+ problems across multiple platforms. and i love to create full stack end to end projects using <b>React, Node.js, Expressjs and MongoDB</b>. I enjoy adding <b>AI features to my full-stack projects</b>.</P>
+  <P align="justify">I’m passionate about <b>Full-Stack Development</b> and <b>Data Structures & Algorithms</b>. I have solved 1250+ problems across multiple platforms. and i love to create full stack end to end projects using <b>React, Node.js, Expressjs and MongoDB</b>. I enjoy adding <b>AI features to my full-stack projects</b>.</P>
 </div>
 
 ##  Technical Skills  
@@ -53,12 +53,12 @@
 
 ##  DSA & Problem Solving Achievements
 
-###  **1242 Problems Solved Across Platforms**
+###  **1250 Problems Solved Across Platforms**
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
 | **LeetCode** | 308 | 1561 |
-| **CodeChef** | 794  | 1455 |
+| **CodeChef** | 796  | 1455 |
 | **GeeksForGeeks, HackerRank <br> Coding ninja & code forces** | 146 | - |
 
 
