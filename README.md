@@ -53,11 +53,11 @@
 
 ##  DSA & Problem Solving Achievements
 
-###  **1250 Problems Solved Across Platforms**
+###  **1253 Problems Solved Across Platforms**
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 308 | 1561 |
+| **LeetCode** | 311 | 1561 |
 | **CodeChef** | 796  | 1455 |
 | **GeeksForGeeks, HackerRank <br> Coding ninja & code forces** | 146 | - |
 
