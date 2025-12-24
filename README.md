@@ -53,13 +53,13 @@
 
 ##  DSA & Problem Solving Achievements
 
-###  **1253 Problems Solved Across Platforms**
+###  **1280 Problems Solved Across Platforms**
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 311 | 1561 |
-| **CodeChef** | 796  | 1455 |
-| **GeeksForGeeks, HackerRank <br> Coding ninja & code forces** | 146 | - |
+| **LeetCode** | 327 | 1561 |
+| **CodeChef** | 803  | 1455 |
+| **GeeksForGeeks, HackerRank <br> Coding ninja & code forces** | 150 | - |
 
 
 ---
@@ -94,7 +94,7 @@
 </p>
 
 ##  Learning Itinerary
-- NodeJs and ExpressJs for Backend Development
+- ExpressJs for Backend Developmen
 - MongoDB for Database
 - Backend integration with MongoDB
 - Advanced Data Structures & Algorithms
