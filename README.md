@@ -23,7 +23,8 @@
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="65px"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="65px"/>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="65px"/>
-      <img src="https://img.icons8.com/?size=100&id=ZMc42tPbG32H&format=png&color=000000" height="45px"/>
+      <img src="https://img.icons8.com/?size=100&id=ZMc42tPbG32H&format=png&color=000000" height="35px"/>
+      <img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" height="35px" />
     </td>
   </tr>
    <tr>
@@ -45,6 +46,8 @@
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="65px"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="65px" />
       <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="65px" />
+      <img src="https://img.icons8.com/?size=100&id=2xFS7aynbwiR&format=png&color=000000" height="30px" />
+      <img height="35px" alt="image" src="https://github.com/user-attachments/assets/452f0c84-263d-4b1f-b489-09e6eb12f2cb" />
     </td>
   </tr>
 </table>
