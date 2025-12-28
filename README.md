@@ -72,7 +72,6 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/thecode_1215?theme=light" alt="LeetCode Stats" />
 </p>
-
 ---
 
 ## GitHub Analytics 
