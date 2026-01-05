@@ -54,14 +54,21 @@
 
 <br>
 
+## Projects
+
+| Project | Description |
+|---------|-------------|
+| [**Youtube clone**](https://github.com/SwathiKaruppaiya15/youtube-clone) | A simplified YouTube-style web application built to explore component-based UI design and API integration. Implements video listing, search, and watch functionality using client-side routing. Focused on improving React fundamentals, state management, and responsive layout design. |
+| [**Apple clone**](https://github.com/SwathiKaruppaiya15/apple-product-website) | A UI-focused clone inspired by Apple’s website, built to practice layout structure, spacing, and responsive design. Emphasizes pixel-level styling, component reuse, and smooth user interface interactions. |
+
 ##  DSA & Problem Solving Achievements
 
-###  **1280 Problems Solved Across Platforms**
+###  **1296 Problems Solved Across Platforms**
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 327 | 1561 |
-| **CodeChef** | 803  | 1455 |
+| **LeetCode** | 340 | 1561 |
+| **CodeChef** | 806  | 1455 |
 | **GeeksForGeeks, HackerRank <br> Coding ninja & code forces** | 150 | - |
 
 ## LeetCode Stats
