@@ -60,6 +60,7 @@
 |---------|-------------|
 | [**Youtube clone**](https://github.com/SwathiKaruppaiya15/youtube-clone) | A simplified YouTube-style web application built to explore component-based UI design and API integration. Implements video listing, search, and watch functionality using client-side routing. Focused on improving React fundamentals, state management, and responsive layout design. |
 | [**Apple clone**](https://github.com/SwathiKaruppaiya15/apple-product-website) | A UI-focused clone inspired by Apple’s website, built to practice layout structure, spacing, and responsive design. Emphasizes pixel-level styling, component reuse, and smooth user interface interactions. |
+| [**ATS AI + Job Automation**](https://github.com/SwathiKaruppaiya15/ats-ai-with-job-automation) |A recruitment platform that centralizes job postings, automates candidate intake, and ranks applicants using AI-based resume analysis. Designed to streamline hiring pipelines, improve shortlist accuracy, and reduce recruiter workload. |
 
 ##  DSA & Problem Solving Achievements
 
