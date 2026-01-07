@@ -75,7 +75,10 @@
 ## LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/thecode_1215?theme=light" alt="LeetCode Stats" />
+  <img
+    src="https://leetcard.jacoblin.cool/thecode_1215?theme=catppuccinMocha&font=Roboto%20Flex&ext=heatmap"
+    width="100%"
+  />
 </p>
 
 ## GitHub Analytics 
