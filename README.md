@@ -2,57 +2,36 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=0:5b6dd6,100:d660c4&text=SWATHI%20K&fontColor=ffffff&fontAlign=50&fontAlignY=39&animation=scaleIn&descAlign=50">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A93A8&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Developer+by+Passion;Full+stack++Developer;DSA+Enthusiast;Learner+by+Choice" alt="typing">
   <br/>
-  <P align="justify">I’m passionate about <b>Full-Stack Development</b> and <b>Data Structures & Algorithms</b>. I have solved 1250+ problems across multiple platforms. and i love to create full stack end to end projects using <b>React, Node.js, Expressjs and MongoDB</b>. I enjoy adding <b>AI features to my full-stack projects</b>.</P>
+  <P align="justify">Backend-leaning full-stack developer with strong problem-solving fundamentals (1250+ DSA problems) and hands-on experience building structured web systems using React, Node.js, Express, and databases. I focus on clean API design, data correctness, and maintainable architecture rather than UI-only implementations. I enjoy implementing features end-to-end, documenting decisions, and improving reliability through validation and error handling. Seeking an Associate Software Engineer role where I can contribute to production-grade backend systems.</P>
 </div>
 
-##  Technical Skills  
+## Tech Stack
 
-<table align="center" width="100%">
-  <tr>
-    <th align="left">Programming Languages</th>
-    <td padding="10px">
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="65px"/>
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" height="65px" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="65px"/>
-    </td>
-  </tr>
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-  <tr>
-    <th align="left">Frontend Development</th>
-    <td padding="10px">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="65px"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="65px"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="65px"/>
-      <img src="https://img.icons8.com/?size=100&id=ZMc42tPbG32H&format=png&color=000000" height="35px"/>
-      <img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" height="35px" />
-    </td>
-  </tr>
-   <tr>
-    <th align="left">Backend Development</th>
-    <td padding="7px">
-      <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" height="65px" />
-    </td>
-  </tr>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-  <tr>
-    <th align="left">Databases</th>
-    <td padding="10px">
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="65px"/>
-    </td>
-  </tr>
-   <tr>
-    <th align="left">Tools</th>
-    <td padding="10px">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="65px"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="65px" />
-      <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="65px" />
-      <img src="https://img.icons8.com/?size=100&id=2xFS7aynbwiR&format=png&color=000000" height="30px" />
-      <img height="35px" alt="image" src="https://github.com/user-attachments/assets/452f0c84-263d-4b1f-b489-09e6eb12f2cb" />
-    </td>
-  </tr>
-</table>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
-<br>
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+
 
 ## Projects
 
@@ -64,12 +43,12 @@
 
 ##  DSA & Problem Solving Achievements
 
-###  **1296 Problems Solved Across Platforms**
+###  **1355+ Problems Solved Across Platforms**
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 340 | 1561 |
-| **CodeChef** | 806  | 1455 |
+| **LeetCode** | 375 | 1561 |
+| **CodeChef** | 830  | 1455 |
 | **GeeksForGeeks, HackerRank <br> Coding ninja & code forces** | 150 | - |
 
 ## LeetCode Stats
