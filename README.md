@@ -34,7 +34,9 @@
 
 | Project | Description |
 |---------|-------------|
-| [**Authentication & Authorization System**](https://github.com/SwathiKaruppaiya15/production-auth-system) |Production-ready Authentication & Authorization system built with Node.js, Express, PostgreSQL, JWT, and Redis. Implements secure signup/login, refresh tokens, RBAC, email verification, password reset, rate limiting, and account protection. Designed using scalable service-based architecture and deployed with real-world security best practices. |
+| [**Real-Time collaboration platform**](https://github.com/SwathiKaruppaiya15/realtime-dev-collab-platform) |Tech Stack: Java, Spring Boot, PostgreSQL, WebSocket (STOMP), Redis, Docker, JWT 
+Built a room-based collaborative coding platform with RBAC and real-time editing using WebSockets and cursor tracking. 
+Implemented file management, chat, presence tracking with Redis, Docker-based code execution, and project export as ZIP. |
 
 ##  DSA & Problem Solving Achievements
 
