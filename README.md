@@ -20,11 +20,13 @@ design.</P>
 | **Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 | **Core Concepts** | ![DSA](https://img.shields.io/badge/DSA-Data%20Structures-blue?style=for-the-badge) ![OOP](https://img.shields.io/badge/OOP-Object%20Oriented-orange?style=for-the-badge) ![Multithreading](https://img.shields.io/badge/Multithreading-Concurrency-red?style=for-the-badge) ![System Design](https://img.shields.io/badge/System%20Design-Basics-green?style=for-the-badge) ![RBAC](https://img.shields.io/badge/RBAC-Access%20Control-purple?style=for-the-badge) ![Client Server](https://img.shields.io/badge/Client--Server-Architecture-grey?style=for-the-badge) ![OS](https://img.shields.io/badge/Operating%20System-Concepts-blueviolet?style=for-the-badge) ![DBMS](https://img.shields.io/badge/DBMS-Database%20Systems-darkgreen?style=for-the-badge) |
 
+
 ## 🚀 Projects
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-|[**Real-Time collaboration platform**](https://github.com/SwathiKaruppaiya15/realtime-dev-collab-platform) | Java, Spring Boot, PostgreSQL, WebSocket (STOMP), Redis, Docker, JWT | Built a room-based collaborative coding platform with RBAC, real-time editing, and cursor tracking. Implemented file management, chat system, and user presence tracking using Redis. Enabled Docker-based code execution and project export as ZIP.|
+| [**Real-Time Collaboration Platform**](https://github.com/SwathiKaruppaiya15/realtime-dev-collab-platform) | Java, Spring Boot, PostgreSQL, WebSocket (STOMP), Redis, Docker, JWT | Built a room-based collaborative coding platform with RBAC, real-time editing, and cursor tracking. Implemented file management, chat system, and user presence tracking using Redis. Enabled Docker-based code execution and project export as ZIP. |
+| [**Sneaker Marketplace with Real-Time Bidding**](https://github.com/SwathiKaruppaiya15/sneakcart-with_realtime_bidding) | Java, Spring Boot, PostgreSQL, WebSocket, React | Built a sneaker marketplace supporting real-time auction bidding and complete e-commerce flow including cart, wishlist, and checkout. |
 
 ##  DSA & Problem Solving Achievements
 
