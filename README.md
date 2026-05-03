@@ -27,6 +27,7 @@ design.</P>
 |---------|------------|-------------|
 | [**Real-Time Collaboration Platform**](https://github.com/SwathiKaruppaiya15/realtime-dev-collab-platform) | Java, Spring Boot, PostgreSQL, WebSocket (STOMP), Redis, Docker, JWT | Built a room-based collaborative coding platform with RBAC, real-time editing, and cursor tracking. Implemented file management, chat system, and user presence tracking using Redis. Enabled Docker-based code execution and project export as ZIP. |
 | [**Sneaker Marketplace with Real-Time Bidding**](https://github.com/SwathiKaruppaiya15/sneakcart-with_realtime_bidding) | Java, Spring Boot, PostgreSQL, WebSocket, React | Built a sneaker marketplace supporting real-time auction bidding and complete e-commerce flow including cart, wishlist, and checkout. |
+| [**Bill Payment Tracker With Autopay**](https://github.com/SwathiKaruppaiya15/simple-wallet-numPay) | Java, Spring Boot, PostgreSQL, Quartz, Docker| Built an automated recurring payment system using Quartz with retry logic and failure handling, ensuring transaction safety and data consistency.|
 
 ##  DSA & Problem Solving Achievements
 
